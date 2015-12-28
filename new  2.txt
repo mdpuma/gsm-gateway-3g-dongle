@@ -1,0 +1,26 @@
+Found modem         : E160X
+Model               : Huawei E160/E160G/E160X
+IMEI                : 355856023427152
+Firmware            : 11.609.10.00.158
+Dashboard version   : UTPS11.300.05.15.143_MAC11.301.09.01.143
+Serial NR.          : DY7NAA18C2500701
+Voice feature       : enabled
+SIM Lock status     : unlocked
+Wrong codes entered : 0 (unlock attempts left : 10)
+
+Unlock 39894136
+Flash 41809734
+
+
+Found modem         : E160X
+Model               : Huawei E160/E160G/E160X
+IMEI                : 355856023475748
+Firmware            : 11.604.09.00.314
+Dashboard version   : UTPS11.030.01.02.403_MAC11.202.08.00.403
+Serial NR.          : DY7NAA18C2500814
+Voice feature       : not supported in current firmware
+SIM Lock status     : Locked (Card Lock)
+Wrong codes entered : 0 (unlock attempts left : 10)
+
+Unlock 45576430
+Flash 45178299

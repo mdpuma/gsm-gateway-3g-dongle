@@ -24,3 +24,13 @@ Wrong codes entered : 0 (unlock attempts left : 10)
 
 Unlock 45576430
 Flash 45178299
+
+
+IMEI	352221044771083
+Unlock	42594669 (NOT WORK)
+Unlock NEW	98363915
+Flash	58252451 
+
+BAD FW	21.158.00.00.1020.B757
+FW		21.157.31.00.161
+FW		21.158.13.04.697
